@@ -1,0 +1,45 @@
+_repo: De-Ridderromantiek-der-Franse-en-Duitse-Middeleeuwen_33332
+_version: 0.1.0
+alternative_title: Ridderromantiken i fransk og tysk Middelalder. Dutch
+contributor:
+  translator:
+    agent_name: Logeman, H. (Henri)
+    aliases:
+    - Logeman, Hendrik
+    - Logeman, Henri
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '36338'
+    url: http://www.gutenberg.org/2009/agents/36338
+covers:
+- cover_type: archival
+  image_path: 33332-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vedel, Vald.
+    alias: Vedel, Valdemar
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36337'
+    url: http://www.gutenberg.org/2009/agents/36337
+description: ''
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33332'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature, Medieval -- History and criticism'
+tableOfContents: Van Baron-burcht tot Ridderhof -- Kristelike Gevoelskultuur -- Wereldlike
+  Kultuur -- Hofkultuur -- "Salon-Poëzie" der Ridderkringen -- Zuid-Frankrijk -- De
+  Kunst der Troubadours -- Minnekunst -- Geestelike Romans -- De Romantiek der Kruistochten
+  -- De Alexander-Romans -- Romanties-Klassieke Literatuur -- Grieks-Oosterse Vertelkunst
+  -- Matière de Bretagne -- Marie de France -- Tristan en Isolde -- Franse Ridderlikheid
+  -- Bretonse Romans -- Duitse Ridderromantiek -- Ideaal Humanisme -- Het Einde der
+  Ridderromantiek.
+title: De Ridderromantiek der Franse en Duitse Middeleeuwen
+url: http://www.gutenberg.org/ebooks/33332
