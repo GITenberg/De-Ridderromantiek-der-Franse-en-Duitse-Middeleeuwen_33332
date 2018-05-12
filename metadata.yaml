@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '36337'
     url: http://www.gutenberg.org/2009/agents/36337
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33332#De-Ridderromantiek-der-Franse-en-Duitse-Middeleeuwen
 gutenberg_issued: '2010-08-03'
 gutenberg_type: Text
 identifiers:
